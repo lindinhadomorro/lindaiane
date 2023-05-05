@@ -1,0 +1,29 @@
+h1{ 
+    color:rgb(243, 21, 132);
+    text-align: center;
+}  
+p{
+    text-align: justify;
+}
+.textored{ /* aqui é o modo que usamos classes*/
+    color: red;  
+}
+#azul{ /* é o modo de identificador ID*/
+    color: blue;
+}
+body{
+    background-color: rgb(235, 214, 214);
+}
+#color{
+    color: darkcyan;
+}
+
+#div{
+    background-color: rgb(248, 232, 253);
+}
+#div2{
+    background-color: rgb(241, 167, 238);
+}
+
+
+
